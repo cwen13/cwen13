@@ -24,3 +24,4 @@ I am open to colloboration and eager to help build a project.
 - email: cwenrich13@gmail
 - Twitter: [@CodyWenrich](https://twitter.com/CodyWenrich)
 - LinkedIn: [Cody Wenrich](https://www.linkedin.com/in/cody-wenrich-864733254/)
+- Signal: +1 440 213 1947
