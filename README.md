@@ -21,6 +21,6 @@ Currently in Code Camp focusing on web development with JavaScript and using Rea
 I am open to colloboration and eager to help build a project.
 
 ## CONTACT
-email: cwenrich13@gmail
-Twitter: [@CodyWenrich](https://twitter.com/CodyWenrich)
-LinkedIn: [Cody Wenrich](https://www.linkedin.com/in/cody-wenrich-864733254/)
+- email: cwenrich13@gmail
+- Twitter: [@CodyWenrich](https://twitter.com/CodyWenrich)
+- LinkedIn: [Cody Wenrich](https://www.linkedin.com/in/cody-wenrich-864733254/)
