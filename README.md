@@ -2,8 +2,8 @@
 Cody Wenrich
 
 ## GOAL
-To become a software developer and find a new carrer thorugh wed development.
-Currently work as a Project Leader, project management, and need to purse a more creative career
+To become a software developer and find a new career thorugh web development.
+Currently work as a Project Leader, project management, and compelled to purse a more creative career
 
 ## INTEREST
 Reading book when there is time. I typically read non-fiction. I enjoy philiosphy, history, and socialist texts.
