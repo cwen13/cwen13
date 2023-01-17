@@ -1,6 +1,8 @@
 # FULL STACK DEVELOPER 
 
 Cody Wenrich 
+HTML, CSS, JavaScript, and Python.
+In time I'll get to know lisp too.
 
 
 ## GOAL 
