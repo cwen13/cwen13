@@ -13,11 +13,12 @@ Reading books when there is time, typically read non-fiction.
 
 ## KNOWLEDGE 
 
+
+I finished CWRU web development code camp in May and I am working on expanding my knowledge and skills. I am looking to starting making websites for anyone and colloborating on projects in the mean time.
+
 I have used Python to create various website scrappers utilizing Selenium and beauitfulSoup. 
 
 Have a cursory knowledge but not working on of lisp, I want to expand on this in time. 
-
-I finished CWRU code camp in May and am working on expanding my knowledge and skills.
 
 ## COLLABORATION 
 
