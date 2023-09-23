@@ -26,7 +26,7 @@ I am open to colloboration and eager to help build projects.
 
 
 ## CONTACT 
-- email: <cwenrich13@gmail>
-- Twitter: [@CodyWenrich-Clegg](https://twitter.com/CodyWenrichCleg) 
+- Email: <cwenrich13@gmail>
+- Portfolio: [Cody WenrichCLegg](https://codywenrich.com/)
+- Twitter: [@CodyWenrich-Clegg](https://twitter.com/C_W_WC) 
 - LinkedIn: [Cody Wenrich-Clegg](https://www.linkedin.com/in/cody-wenrich-clegg-864733254/) 
-- Signal: +1 440 213 1947 
