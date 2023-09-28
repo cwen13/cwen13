@@ -27,5 +27,5 @@ I am open to colloboration and eager to help build projects.
 
 ## CONTACT 
 - Email: <cwenrich13@gmail>
-- Portfolio: [Cody WenrichCLegg](https://codywenrich.com/)
+- Portfolio: [Cody Wenrich-CLegg](https://codywenrich.com/)
 - LinkedIn: [Cody Wenrich-Clegg](https://www.linkedin.com/in/cody-wenrich-clegg-864733254/) 
