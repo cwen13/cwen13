@@ -10,7 +10,11 @@ Create a web development career change and become an asset to a dedicated team.
 ## KNOWLEDGE 
 
 I took a few programming classes in college and really enjoyed them. Throughout the rest of my mechanical engineering school, I kept being drawn to code in some form. Only at the end of my schooling did I start to pick up python on my own. Enjoying it I picked up a few web scrapping gigs and wrote some custom programs for an employer. While there I was recruited to extend the ERP system with VBScript. Determined to use my degree I shifted gears for obtaining my engineering intern certificate and look again for a position in that field.
+
+
 Finding a new position, I once again felt the call of programming and jumped into a code camp through Case Western Reserve University by 2U. I was able to complete this course and really get a solid foundation of the fundamental working parts of web development. Following the class, I secured a position with 2U as a teaching assistant for the very program I was just a student in. Since this is a part time position, I continued to search for opportunities but had not been hired yet. Feeling down, I took a step back and turned my focus onto finding any job and that took my eyes off my code for a while.
+
+
 A new class of code camp students came along and got my fire burning bright. Returning to what I love really has affirmed how much I want a career in coding and am committed to finding a position for me to excel at. I have been diving back into building and technical writing to help show my abilities not just in code but also communication.
 
 ## INTEREST 
