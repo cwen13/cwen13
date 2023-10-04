@@ -17,7 +17,7 @@ Finding a new position, I once again felt the call of programming and jumped int
 
 ---
 
-A new class of code camp students came along and got my fire burning bright. Returning to what I love really has affirmed how much I want a career in coding and am committed to finding a position for me to excel at. I have been diving back into building and technical writing to help show my abilities not just in code but also communication.
+A new class of code camp students came along and has my passion filled. Returning to what I love really has affirmed how much I want a career in coding and am committed to finding a position for me to excel at. I have been diving back into building and technical writing to help show my abilities not just in code but also communication.
 
 ## INTEREST 
 
