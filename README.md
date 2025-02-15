@@ -5,7 +5,7 @@ HTML, CSS, JavaScript, and Python.
 
 ## GOAL 
 
-Secure a web development position that will excel my learning to become a senior developer.
+Secure a web development position that will challenge my past learning to push me as a develoepr.
 
 ## KNOWLEDGE 
 
