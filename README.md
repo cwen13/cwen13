@@ -2,7 +2,7 @@
   
 
 ## Technologies: 
- HTML, CSS, JavaScript, Python 
+ HTML, CSS, JavaScript, Bootstrap, MySQL, MongoDB, React, & Python.
 
 ## Goal: 
  To secure a web development position that challenges me to grow and advance towards becoming a senior developer. 
