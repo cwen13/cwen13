@@ -1,33 +1,24 @@
-# Cody Wenrich-Clegg FULL STACK DEVELOPER 
+#Cody Wenrich-Clegg , E.I.
+  
 
-## TECHNILOGIES
-HTML, CSS, JavaScript, and Python.
+##Technologies: 
+ HTML, CSS, JavaScript, Python 
 
-## GOAL 
+##Goal: 
+ To secure a web development position that challenges me to grow and advance towards becoming a senior developer. 
 
-Secure a web development position that will challenge my past learning to push me as a develoepr.
+##About Me: 
+ I began my journey as a self-taught Python developer, specializing in web scraping using Selenium and other HTML-based methods. My skills expanded as I learned VBScript to enhance the ERP system at my workplace, which improved data accuracy for the sales team and provided better visibility into production workloads. 
 
-## KNOWLEDGE 
+Transitioning from my role as a Quality Engineer, I moved into project management at Bendix/Knorr Bremse and enrolled in a coding bootcamp through Case Western Reserve University with 2U/edX. I excelled in the program, often assisting my peers, and subsequently secured a Teaching Assistant position where I supported another cohort of students. However, I realized that teaching did not align with my long-term career aspirations, prompting me to seek engineering roles. 
 
-I took a few programming classes in college and really enjoyed them. Throughout the rest of my mechanical engineering school, I was drawn to code in some form or another. Only near the end of my schooling did I start to pick up python on my own. Enjoying it allowed for me to picked up a few web scrapping gigs and wrote some custom programs for an employer. While there I was recruited to extend the ERP system with VBScript. Determined to use my degree I shifted gears for obtaining my engineering intern certificate and look again for a position in that field.
+With a background in Mechanical Engineering, I took on the role of Design Engineer at a construction company, where I honed my AutoCAD and Inventor skills while gaining insights into the construction industry, specifically in ceiling suspension systems and duct support design. 
 
----
+Now, I am committed to returning to development with the goal of becoming a proficient web developer and eventually transitioning into full-fledged software development. 
 
-Finding a new position, I once again felt the call of programming and jumped into a code camp through Case Western Reserve University by 2U. I was able to complete this course and really get a solid foundation of the fundamental working parts of web development. Following the class, I secured a position with 2U as a teaching assistant for the very program I was just a student in. Since this is a part time position, I continued to search for opportunities but had not been hired yet. Feeling down, I took a step back and turned my focus onto finding any job and that took my eyes off my code for a while.
+##Collobration: 
+ I am open to collaboration and eager to contribute to project development. 
 
----
-
-A new class of code camp students came along and has my passion filled. Returning to what I love really has affirmed how much I want a career in coding and am committed to finding a position for me to excel at. I have been diving back into building and technical writing to help show my abilities not just in code but also communication.
-
-## INTEREST 
-
-Outside of coding I enjoy running and reading.
-
-## COLLABORATION 
-
-I am open to collaboration and eager to help build projects. 
-
-
-## CONTACT 
+##Contact: 
 - Email: <cwenrich13@gmail>
-- LinkedIn: [Cody Wenrich-Clegg](https://www.linkedin.com/in/cody-wenrich-clegg-864733254/) 
+- LinkedIn: [Cody Wenrich-Clegg](https://www.linkedin.com/in/cody-wenrich-clegg-864733254/)
